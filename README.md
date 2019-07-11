@@ -11,7 +11,9 @@ An endpoint that returns a list of the last 10 palindromes the system has receiv
 ## How to install 
 
 git clone https://github.com/SarahSoutoul/node-rest-palindrome.git
+
 cd node-rest-palindrome
+
 npm install
 
 ## Run the app
